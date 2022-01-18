@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             x:Class="CollectionContentInset.MainPage"
+             ios:Page.UseSafeArea="true">
+    <Grid >
+    <CollectionView>
+        <CollectionView.ItemsSource>
+            <x:Array Type="{x:Type x:String}">
+                <x:String>Test1</x:String>
+                <x:String>Test2</x:String>
+                <x:String>Test3</x:String>
+                <x:String>Test4</x:String>
+                <x:String>Test5</x:String>
+                <x:String>Test6</x:String>
+                <x:String>Test7</x:String>
+                <x:String>Test8</x:String>
+                <x:String>Test9</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+                <x:String>Test10</x:String>
+            </x:Array>
+        </CollectionView.ItemsSource>
+        <CollectionView.ItemTemplate>
+            <DataTemplate>
+                <Frame>
+                    <Label Text="{Binding Path=.}"/>
+                </Frame>
+            </DataTemplate>
+        </CollectionView.ItemTemplate>
+        <CollectionView.ItemsLayout>
+            <LinearItemsLayout ItemSpacing="10" Orientation="Vertical"/>
+        </CollectionView.ItemsLayout>
+    </CollectionView>
+        </Grid>
+</ContentPage>

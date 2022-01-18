@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYu3setw4qthzA2G+/JkDfcbWR68tSwvEsS1wOKlYXumRTPa4HAyOf9Rvt5BvMmlgwmgUhLEUsCGpg0gJeZLyg==",
+  "success": true,
+  "projectFilePath": "/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset.iOS/CollectionContentInset.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/pawel.tosiek/.nuget/packages/xamarin.forms/5.0.0.2291/xamarin.forms.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": []
+}

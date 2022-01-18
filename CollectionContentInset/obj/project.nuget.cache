@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "suw6V/shUKMFhBez/e0QmSNKEsnGy5O4NwhgGrsq7Rwo8JVdGWNoWKmrcOOTnFp6QPzRZ00qK6bJBQZ39IHTgg==",
+  "success": true,
+  "projectFilePath": "/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/CollectionContentInset.csproj",
+  "expectedPackageFiles": [
+    "/Users/pawel.tosiek/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/pawel.tosiek/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/pawel.tosiek/.nuget/packages/xamarin.forms/5.0.0.2291/xamarin.forms.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": []
+}

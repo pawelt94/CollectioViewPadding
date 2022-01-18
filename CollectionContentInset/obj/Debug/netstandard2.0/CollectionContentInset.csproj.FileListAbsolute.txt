@@ -1,0 +1,15 @@
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/bin/Debug/netstandard2.0/CollectionContentInset.deps.json
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/bin/Debug/netstandard2.0/CollectionContentInset.dll
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/bin/Debug/netstandard2.0/ref/CollectionContentInset.dll
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/bin/Debug/netstandard2.0/CollectionContentInset.pdb
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.AssemblyInfoInputs.cache
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.AssemblyInfo.cs
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.csproj.CoreCompileInputs.cache
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.dll
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/ref/CollectionContentInset.dll
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.pdb
+/Users/pawel.tosiek/Projects/CollectionContentInset/CollectionContentInset/obj/Debug/netstandard2.0/CollectionContentInset.csproj.AssemblyReference.cache

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E51487CB-03C3-4099-B037-93193CA55C8F}|Default">
+  <MonoDevelop.Ide.ItemProperties.CollectionContentInset.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CD84017F-698C-432D-914A-4A97F41AFD0C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionContentInset.Android/MainActivity.cs">
+    <Files>
+      <File FileName="CollectionContentInset.iOS/MyCollectionViewRenderer.cs" Line="26" Column="1" />
+      <File FileName="CollectionContentInset/MainPage.xaml" />
+      <File FileName="CollectionContentInset.Android/MyCollectionViewRenderer.cs" Line="24" Column="39" />
+      <File FileName="CollectionContentInset.Android/MainActivity.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CollectionContentInset" expanded="True">
+            <Node name="CollectionContentInset" expanded="True" />
+            <Node name="CollectionContentInset.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="CollectionContentInset.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>Content</Value>
+          <Value>Wiadomosc.OdpowiedzZAPI.Content</Value>
+          <Value>wv.WidthRequest</Value>
+          <Value>fittingSize</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CollectionContentInset.Android PreferredExecutionTarget="Android.Pixel_5_API_31" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
